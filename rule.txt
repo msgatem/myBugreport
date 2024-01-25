@@ -1,0 +1,42 @@
+TOAST_WINDOW:悬浮窗权限
+READ_CALENDAR:读取日历数据权限
+START_FOREGROUND:前台运行
+READ_CONTACTS:访问联系人列表
+READ_CALL_LOG:访问通话记录
+scan started:扫描于
+internal.db:内部数据库
+rows:文件数量
+fingerprint:设备指纹为
+external.db:外部数据库
+pid=:开始：进程ID为
+version:版本号
+mThumbSize=:缩略图的大小
+allow:允许
+Update:更新
+top-s:应用在设备UI的顶部运行的时间
+fgsvc-s:应用在前台作为服务运行的时间
+fg-s:应用在前台运行的时间
+fg-up:应用在前台更新的时间
+bg-s:应用在后台运行的时间
+bg-up:应用在后台更新的状态的时间
+cch-s:应用在缓存状态下运行的时间
+cch-up:应用在缓存状态下更新的时间
+pers-s:常驻服务运行的时间
+pers-tpd:应用作为常驻服务所占用的总处理时间
+fg-tpd:应用在用户界面前台运行所消耗的总处理时间
+Charge total time:充电总时间
+Charge screen off time:关屏充电时间
+Charge screen on time:开屏充电时间
+Discharge total time:放电总时间
+Discharge screen off time:关屏放电时间
+Discharge screen off device idle time:设备闲置时关屏放电时间
+Charge step durations:充电阶段持续时间
+Discharge step durations:放电阶段持续时间
+screen-on:屏幕开启
+screen-off:屏幕关闭
+power-save-on:省电模式开启
+power-save-off:省电模式关闭
+device-idle-on:设备闲置开启
+device-idle-off:设备闲置关闭
+
+
